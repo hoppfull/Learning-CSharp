@@ -7,7 +7,7 @@ namespace ex01.Models {
             get { return myProperty; }
             set {
                 myProperty = value;
-                OnPropertyChanged("MyProperty");
+                OnPropertyChanged(nameof(MyProperty));
             }
         }
 
