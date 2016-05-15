@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:ex01"
         xmlns:model="clr-namespace:ex01.Models"
-        Title="ex01 - MVVM basics" Height="240" Width="360">
+        Title="ex01 INotifyPropertyChanged" Height="240" Width="360">
     <Window.Resources>
         <model:MyModel x:Key="key_MyModel" />
     </Window.Resources>
