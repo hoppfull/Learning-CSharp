@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08 task continuations", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09 async await", "ex09\ex09 async await.csproj", "{6628CD7D-C260-450A-B8DF-B2C73658B920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10 event", "ex10\ex10 event.csproj", "{EF4E5FD7-277B-4B33-BDF9-2AF1E11B442E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6628CD7D-C260-450A-B8DF-B2C73658B920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6628CD7D-C260-450A-B8DF-B2C73658B920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6628CD7D-C260-450A-B8DF-B2C73658B920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4E5FD7-277B-4B33-BDF9-2AF1E11B442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E5FD7-277B-4B33-BDF9-2AF1E11B442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E5FD7-277B-4B33-BDF9-2AF1E11B442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E5FD7-277B-4B33-BDF9-2AF1E11B442E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
