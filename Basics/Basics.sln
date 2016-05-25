@@ -1,43 +1,43 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 hello world", "ex01\ex01 hello world.csproj", "{D328B9C0-F29C-40A8-AFDD-95E4557C69B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 hello world", "ex01 hello world\ex01 hello world.csproj", "{D328B9C0-F29C-40A8-AFDD-95E4557C69B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 variables", "ex02\ex02 variables.csproj", "{653EF090-CF4F-4086-BBBF-6553AFCFFDDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 variables", "ex02 variables\ex02 variables.csproj", "{653EF090-CF4F-4086-BBBF-6553AFCFFDDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03 if-statement", "ex03\ex03 if-statement.csproj", "{B3336445-25C6-4A9D-8F61-12321BF0D264}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03 if-statement", "ex03 if-statement\ex03 if-statement.csproj", "{B3336445-25C6-4A9D-8F61-12321BF0D264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04 loop structures", "ex04\ex04 loop structures.csproj", "{45B58F06-5E2D-47A0-AAF9-290A7FD86DC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04 loop structures", "ex04 loop structures\ex04 loop structures.csproj", "{45B58F06-5E2D-47A0-AAF9-290A7FD86DC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05 methods", "ex05\ex05 methods.csproj", "{4221E3A4-46FD-4F56-8E8C-A4B86E777F41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05 methods", "ex05 methods\ex05 methods.csproj", "{4221E3A4-46FD-4F56-8E8C-A4B86E777F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06 ref out", "ex06\ex06 ref out.csproj", "{FE866F06-55D3-404E-ADC8-F9A4F7B328EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06 ref out", "ex06 ref out\ex06 ref out.csproj", "{FE866F06-55D3-404E-ADC8-F9A4F7B328EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex07 local scope", "ex07\ex07 local scope.csproj", "{E3793D6C-320D-4BD0-A2EE-FF8DB0171678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex07 local scope", "ex07 local scope\ex07 local scope.csproj", "{E3793D6C-320D-4BD0-A2EE-FF8DB0171678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08 tuples", "ex08\ex08 tuples.csproj", "{CD2C84E2-0202-488B-8962-27CA91DF01DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08 tuples", "ex08 tuples\ex08 tuples.csproj", "{CD2C84E2-0202-488B-8962-27CA91DF01DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09 functions", "ex09\ex09 functions.csproj", "{5CECA8C5-2733-4AD9-8C24-5AF2DD0FAB65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09 functions", "ex09 functions\ex09 functions.csproj", "{5CECA8C5-2733-4AD9-8C24-5AF2DD0FAB65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10 arrays", "ex10\ex10 arrays.csproj", "{65B48A97-918F-4AD1-8A0D-65C2F25F44C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10 arrays", "ex10 arrays\ex10 arrays.csproj", "{65B48A97-918F-4AD1-8A0D-65C2F25F44C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11 params", "ex11\ex11 params.csproj", "{04C2166A-C040-44B7-9F05-B8AAC8D64919}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11 params", "ex11 params\ex11 params.csproj", "{04C2166A-C040-44B7-9F05-B8AAC8D64919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex12 optional", "ex12\ex12 optional.csproj", "{79E00BBC-1763-47B0-9BEE-D58E11192024}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex12 optional", "ex12 optional\ex12 optional.csproj", "{79E00BBC-1763-47B0-9BEE-D58E11192024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex13 named arguments", "ex13\ex13 named arguments.csproj", "{CF2B7F34-F50C-4079-8DAB-8560EA65799F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex13 named arguments", "ex13 named arguments\ex13 named arguments.csproj", "{CF2B7F34-F50C-4079-8DAB-8560EA65799F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex14 enum", "ex14\ex14 enum.csproj", "{6AFB3B61-1596-4AD3-8D6D-423A1025A40E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex14 enum", "ex14 enum\ex14 enum.csproj", "{6AFB3B61-1596-4AD3-8D6D-423A1025A40E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex15 class", "ex15\ex15 class.csproj", "{1EEBE755-B28A-43F5-864E-683475F368A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex15 class", "ex15 class\ex15 class.csproj", "{1EEBE755-B28A-43F5-864E-683475F368A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex16 struct", "ex16\ex16 struct.csproj", "{459FED19-F0BA-4C9B-9A11-6D7F047E3FBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex16 struct", "ex16 struct\ex16 struct.csproj", "{459FED19-F0BA-4C9B-9A11-6D7F047E3FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex17 fp switch", "ex17\ex17 fp switch.csproj", "{3A0BEA8E-56FC-4602-A0B8-4AC6B0603B8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex17 fp switch", "ex17 fp switch\ex17 fp switch.csproj", "{3A0BEA8E-56FC-4602-A0B8-4AC6B0603B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex18 pattern match", "ex18\ex18 pattern match.csproj", "{425BAC41-7E7B-42F8-A872-052CB92529AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex18 pattern match", "ex18 pattern match\ex18 pattern match.csproj", "{425BAC41-7E7B-42F8-A872-052CB92529AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
