@@ -3,35 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 static class", "ex01\ex01 static class.csproj", "{84D887F2-7AAB-47CD-B146-81B1A851B5BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 static class", "ex01 static class\ex01 static class.csproj", "{84D887F2-7AAB-47CD-B146-81B1A851B5BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 private access", "ex02\ex02 private access.csproj", "{CEDABD03-BA7F-466B-97A4-9F656D8D14EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 private access", "ex02 private access\ex02 private access.csproj", "{CEDABD03-BA7F-466B-97A4-9F656D8D14EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03 get set", "ex03\ex03 get set.csproj", "{5A66F51D-1BE8-4329-B6CF-8D51EE3CDACA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03 get set", "ex03 get set\ex03 get set.csproj", "{5A66F51D-1BE8-4329-B6CF-8D51EE3CDACA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04 constructor", "ex04\ex04 constructor.csproj", "{B44D8884-9AC7-4326-9031-E2C61B58D36A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04 constructor", "ex04 constructor\ex04 constructor.csproj", "{B44D8884-9AC7-4326-9031-E2C61B58D36A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05 inheritance", "ex05\ex05 inheritance.csproj", "{882D0923-BBD8-4EA1-BFA5-7CE766EFB9D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05 inheritance", "ex05 inheritance\ex05 inheritance.csproj", "{882D0923-BBD8-4EA1-BFA5-7CE766EFB9D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06 protected access", "ex06\ex06 protected access.csproj", "{1D27609A-C876-446A-A120-1BF842EF0920}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06 protected access", "ex06 protected access\ex06 protected access.csproj", "{1D27609A-C876-446A-A120-1BF842EF0920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex07 abstract class", "ex07\ex07 abstract class.csproj", "{BFC61373-0C5A-4EA4-AA97-5202D286C4E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex07 abstract class", "ex07 abstract class\ex07 abstract class.csproj", "{BFC61373-0C5A-4EA4-AA97-5202D286C4E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08 virtual member", "ex08\ex08 virtual member.csproj", "{F417A4C0-011C-4FAC-9684-25E4CD6B286D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08 virtual member", "ex08 virtual member\ex08 virtual member.csproj", "{F417A4C0-011C-4FAC-9684-25E4CD6B286D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09 interface", "ex09\ex09 interface.csproj", "{5705F081-0B19-4751-B4CB-92CDF6F19CC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09 interface", "ex09 interface\ex09 interface.csproj", "{5705F081-0B19-4751-B4CB-92CDF6F19CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10 structs", "ex10\ex10 structs.csproj", "{261D2E72-7066-4580-B023-07F8694CBE02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10 structs", "ex10 structs\ex10 structs.csproj", "{261D2E72-7066-4580-B023-07F8694CBE02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11 readonly", "ex11\ex11 readonly.csproj", "{91D469A7-C0C9-4136-8AAC-3AB05F0FFC61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11 readonly", "ex11 readonly\ex11 readonly.csproj", "{91D469A7-C0C9-4136-8AAC-3AB05F0FFC61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex12 lambda functions", "ex12\ex12 lambda functions.csproj", "{FA243B22-485F-43FD-9F58-4531DCDD3F7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex12 lambda functions", "ex12 lambda functions\ex12 lambda functions.csproj", "{FA243B22-485F-43FD-9F58-4531DCDD3F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex13 higher order functions", "ex13\ex13 higher order functions.csproj", "{81CDF2C8-5B09-4DB5-8646-B5704489EB4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex13 higher order functions", "ex13 higher order functions\ex13 higher order functions.csproj", "{81CDF2C8-5B09-4DB5-8646-B5704489EB4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex14 delegates", "ex14\ex14 delegates.csproj", "{53711CF3-55C6-43E1-AEB2-F91F2D9003E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex14 delegates", "ex14 delegates\ex14 delegates.csproj", "{53711CF3-55C6-43E1-AEB2-F91F2D9003E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex15 actions", "ex15\ex15 actions.csproj", "{4FE9ACF1-9555-4EBA-A332-5804362BDC9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex15 actions", "ex15 actions\ex15 actions.csproj", "{4FE9ACF1-9555-4EBA-A332-5804362BDC9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
