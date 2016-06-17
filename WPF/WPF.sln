@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 - Hello WPF", "ex01 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 - XAML styles", "ex02 - XAML styles\ex02 - XAML styles.csproj", "{7BD43BEC-5196-417B-8786-C348042D532D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03 - DataContext", "ex03 - DataContext\ex03 - DataContext.csproj", "{5A327AE3-7255-414E-AB8C-D747CBCEEE99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7BD43BEC-5196-417B-8786-C348042D532D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BD43BEC-5196-417B-8786-C348042D532D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BD43BEC-5196-417B-8786-C348042D532D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A327AE3-7255-414E-AB8C-D747CBCEEE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A327AE3-7255-414E-AB8C-D747CBCEEE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A327AE3-7255-414E-AB8C-D747CBCEEE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A327AE3-7255-414E-AB8C-D747CBCEEE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
