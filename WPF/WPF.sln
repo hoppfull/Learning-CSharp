@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 - Hello WPF", "ex01\ex01 - Hello WPF.csproj", "{01AEA8EA-0153-4EE8-8676-893DA6D121A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01 - Hello WPF", "ex01 - Hello WPF\ex01 - Hello WPF.csproj", "{01AEA8EA-0153-4EE8-8676-893DA6D121A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 - XAML styles", "ex02\ex02 - XAML styles.csproj", "{7BD43BEC-5196-417B-8786-C348042D532D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02 - XAML styles", "ex02 - XAML styles\ex02 - XAML styles.csproj", "{7BD43BEC-5196-417B-8786-C348042D532D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
