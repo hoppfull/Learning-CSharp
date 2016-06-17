@@ -1,0 +1,10 @@
+﻿<Window x:Class="ex04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ex04="clr-namespace:ex04"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <ex04:MyUserControl x:Name="mUC_field1" Label="field1:" Text="{Binding MyProperty, Mode=TwoWay}" />
+        <Button Name="btn_myButton" Content="Click" Width="70" />
+    </StackPanel>
+</Window>
