@@ -1,0 +1,24 @@
+﻿<Window x:Class="ex02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <StackPanel.Resources>
+            <Style  x:Key="key_lbl_BoldAndLarge" TargetType="Label">
+                <Setter Property="FontWeight" Value="Bold" />
+                <Setter Property="FontSize" Value="36" />
+            </Style>
+            <Style  x:Key="key_lbl_BoldAndLargeAndRed" TargetType="Label" BasedOn="{StaticResource key_lbl_BoldAndLarge}">
+                <Setter Property="Foreground" Value="Red" />
+            </Style>
+        </StackPanel.Resources>
+        <Label Style="{StaticResource key_lbl_BoldAndLarge}"
+               Content="Label one!" />
+        <Label Style="{StaticResource key_lbl_BoldAndLarge}" 
+               Content="Label two!" />
+        <Label Style="{StaticResource key_lbl_BoldAndLarge}" 
+               Content="Label three!" />
+        <Label Style="{StaticResource key_lbl_BoldAndLargeAndRed}" 
+               Content="Label four!" />
+    </StackPanel>
+</Window>
